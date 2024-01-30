@@ -4,7 +4,7 @@ Module contains a square class
 """
 
 
-class square:
+class Square:
     """
     square class
     """
