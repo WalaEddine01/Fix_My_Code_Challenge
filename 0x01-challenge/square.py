@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+Module contains a square class
+"""
+
 
 class square():
     """
